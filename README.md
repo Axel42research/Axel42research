@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Axel42research
+- 👋 Hi, I’m @Axel
 - 👀 I’m interested in microscopy and microfluidics
 - 🌱 I’m currently learning on how to run Omero on a facility
 - 💞️ I’m open to collaborate.
-- 📫 How to reach me a.hochstetter
+- 📫 How to reach me a.hochstetter@umcg.nl
 
 <!---
 Axel42research/Axel42research is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
